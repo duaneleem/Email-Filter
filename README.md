@@ -5,7 +5,7 @@ This program will find all valid emails from a file you give it and output
 the results to a designated output file.  This program was developed as 
 part of my final project in my C++ class.
 
-I used C++ <deque> collections to store the valid emails I found from test
+I used C++ deque collections to store the valid emails I found from test
 files.  I made sure there were no duplicates.  You can essentially use this program
 to clean out text files (such as HTML).  I've listed the output to separate the
 emails by semicolon.  The output file contents can be copied to a "TO/CC/BCC"
